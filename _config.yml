@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 小贼先生
+title: 刘雨熙
 subtitle: 我的code，一块砖一块砖垒成未来的样子
 description: 
 keywords: javascript,react,微信小程序,程序员,程序猿,码农
-author: roonly
+author: rainci
 language: Chinese
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://roonly.github.io
+url: https://rainci.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -30,7 +30,7 @@ skip_render:
 
 # Site settings
 # 网站综合内容设置：
-SEOTitle: roonly小贼先生的博客 | roonly's Blog
+SEOTitle: rainci刘雨熙的博客 | rainci's Blog
 header-img: 
 sidebar-avatar: img/myface.jpeg
 email: whrjob@sina.com
@@ -114,5 +114,5 @@ theme: aircloud
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/roonly/roonly.github.io.git
+  repo: https://github.com/rainci/rainci.github.io.git
   branch: master
